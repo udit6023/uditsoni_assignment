@@ -17,7 +17,9 @@ SO here i hav added few images of the app with their functionalities.
 
 ![WhatsApp Image 2024-02-29 at 12 36 48 AM](https://github.com/udit6023/uditsoni_assignment/assets/91983775/fa8cba00-b1be-4d1a-b653-c535573159a7)
 
-<img width="244" alt="Screenshot 2024-02-29 003758" src="https://github.com/udit6023/uditsoni_assignment/assets/91983775/36410ecc-560d-45c8-a1d7-8d4a66ab13a5">
+<img width="344" alt="Screenshot 2024-02-29 003758" src="https://github.com/udit6023/uditsoni_assignment/assets/91983775/36410ecc-560d-45c8-a1d7-8d4a66ab13a5">
+
+
 
 
 3)once you are done with the resgistration you will see a button back to login and with this you can go back to login screen and now put your credentials that you have registered with and if that mataches then clicking on the log in buttton this time will take you to the home screen.
