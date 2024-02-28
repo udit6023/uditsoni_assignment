@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292348319543",
+    "project_id": "messaging-app-aa791",
+    "storage_bucket": "messaging-app-aa791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292348319543:android:06efde69fe1291e2e06cb2",
+        "android_client_info": {
+          "package_name": "com.example.vivatech_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTItNHmH4zH4mI9UZ65NSvCkpdMWhB1EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
